@@ -1,1 +1,2 @@
 Bonjour, voici mon deuxième fichier Git
+Cette ligne a été ajoutée depuis GitHub.
