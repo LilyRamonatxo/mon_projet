@@ -1,2 +1,1 @@
-Bonjour, voici mon deuxième fichier Git
-Cette ligne a été ajoutée depuis GitHub.
+Bonjour, ce fichier a été modifié sur mon ordinateur.
