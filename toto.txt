@@ -1,1 +1,3 @@
 Bonjour, ce fichier a été modifié sur mon ordinateur.
+Bonjour, ce fichier a été modifié sur GitHub.
+Cette ligne a été ajoutée depuis GitHub.
